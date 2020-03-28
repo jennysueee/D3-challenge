@@ -1,5 +1,7 @@
 # D3 Homework - Data Journalism and D3
 
+https://jennysueee.github.io/D3-challenge/
+
 Completed level 1 and 2 of Homework assignment
 ![HealthcarevPoverty.JPG](HealthcarevPoverty.JPG)
 
